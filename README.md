@@ -38,12 +38,23 @@ The course aims to provide an understanding of analyzing algorithms and their co
 - [Seatwork 3.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Prelims/Seatwork%203p1)
 - [Seatwork 4.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Prelims/Seatwork%204p1)
 
-
 ---
 
 ## MIDTERM
 
+- [Hands-on Activity 5.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Midterms/HOA5p1)
+- [Hands-on Activity 6.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Midterms/HOA6p1)
+- [Hands-on Activity 7.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Midterms/HOA7p1)
+- [Hands-on Activity 8.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Midterms/HOA8p1)
+- [Hands-on Activity 9.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Midterms/HOA9p1)
+
 ---
 
 ## FINALS
+
+- [Hands-on Activity 10.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Finals/HOA10p1)
+- [Hands-on Activity 11.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Finals/HOA11p1)
+- [Hands-on Activity 12.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Finals/HOA12p1)
+- [Hands-on Activity 13.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Finals/HOA13p1)
+- [Hands-on Activity 14.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Finals/HOA14p1)
 
