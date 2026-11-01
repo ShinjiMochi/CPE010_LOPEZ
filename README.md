@@ -25,8 +25,6 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 ## TOPICS
 
----
-
 ## PRELIM
 
 - [Hands-on Activity 1.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Prelims/HOA%201p1)
