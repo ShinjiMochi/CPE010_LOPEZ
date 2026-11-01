@@ -29,6 +29,14 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 ## PRELIM
 
+- [Hands-on Activity 1.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Prelims/HOA%201p1)
+- [Hands-on Activity 2.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Prelims/HOA%202p1)
+- [Hands-on Activity 3.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Prelims/HOA%203p1)
+- [Hands-on Activity 4.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Prelims/HOA%204p1)
+- [Seatwork 1.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Prelims/Seatwork%201p1)
+- [Seatwork 2.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Prelims/Seatwork%202p1)
+- [Seatwork 3.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Prelims/Seatwork%203p1)
+- [Seatwork 4.1](https://github.com/ShinjiMochi/CPE010_LOPEZ/tree/main/Prelims/Seatwork%204p1)
 
 
 ---
